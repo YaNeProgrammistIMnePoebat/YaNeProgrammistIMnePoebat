@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/YaNeProgrammistIMnePoebat/YaNeProgrammistIMnePoebat/refs/heads/main/Bad_Apple.mp4
+https://github.com/YaNeProgrammistIMnePoebat/YaNeProgrammistIMnePoebat/raw/refs/heads/main/Bad_Apple.mp4
